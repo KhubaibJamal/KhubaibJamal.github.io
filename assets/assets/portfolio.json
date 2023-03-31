@@ -94,7 +94,7 @@
             "name": "Calculator",
             "tech_stack_used": "Flutter",
             "description": "A calculator app based on simple UI and a history section to show the previous calculations",
-            "general_or_github_link": "https://github.com/belelaritra/Neumorphic_Calculator"
+            "general_or_github_link": ""
         },
         "4": {
             "name": "Weather App",
