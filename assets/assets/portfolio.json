@@ -91,45 +91,51 @@
             "general_or_github_link": ""
         },
         "3": {
+            "name": "Chat application",
+            "tech_stack_used": "Flutter, Firebase",
+            "description": "A chatting application with a real time messaging. With the added convenience of Google Sign-In functionality, users can access the app securely and effortlessly. User will create a new group and send messages to each other in the group.",
+            "general_or_github_link": ""
+        },
+        "4": {
             "name": "Calculator",
             "tech_stack_used": "Flutter",
             "description": "A calculator app based on simple UI and a history section to show the previous calculations",
             "general_or_github_link": ""
         },
-        "4": {
+        "5": {
             "name": "Weather App",
             "tech_stack_used": "Flutter, REST API",
             "description": "Weather application that allows users to update the current weather data. The app uses real-time data from Rest API. Users can also search other countries to show weather updates.",
             "general_or_github_link": ""
         },
-        "5": {
+        "6": {
             "name": "TikTok Clone",
             "tech_stack_used": "Flutter",
             "description": "TikTok clone with the integration of camera feature.",
             "general_or_github_link": ""
         },
-        "6": {
+        "7": {
             "name": "Bankers Algorithm",
             "tech_stack_used": "C++",
             "description": "It is a banker algorithm used to avoid deadlock and allocate resources safely to each process in the computer system. The 'S-State' examines all possible tests or activities before deciding whether the allocation should be allowed to each process. It also helps the operating system to successfully share the resources between all the processes.",
             "general_or_github_link": ""
         },
-        "7": {
+        "8": {
             "name": "Clock application",
             "tech_stack_used": "Flutter",
             "description": "Digital and analog clock with the dark and light theme.",
             "general_or_github_link": ""
         },
-        "8":{
-            "name": "Online Shopping",
-            "tech_stack_used": "C++",
-            "description": "The online shopping terminal application using C++ and linked lists is a console-based application that allows users to shop for items from an online store. The app allows users to browse through a list of items available for sale and select the items they want to purchase. Using this app, users can add items to their shopping cart and view the total cost of their purchases. The application also allows users to remove items from their cart and update the number of items they want to purchase.",
-            "general_or_github_link": ""
-        },
-        "9":{
+        "9": {
             "name": "Login Sign-Up UI",
             "tech_stack_used": "Flutter, Firebase",
             "description": "Login and sign-up page UI with google authentication and forget screen.",
+            "general_or_github_link": ""
+        },
+        "10": {
+            "name": "Online Shopping",
+            "tech_stack_used": "C++",
+            "description": "The online shopping terminal application using C++ and linked lists is a console-based application that allows users to shop for items from an online store. The app allows users to browse through a list of items available for sale and select the items they want to purchase. Using this app, users can add items to their shopping cart and view the total cost of their purchases. The application also allows users to remove items from their cart and update the number of items they want to purchase.",
             "general_or_github_link": ""
         }
     },
